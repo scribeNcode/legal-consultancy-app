@@ -4,10 +4,7 @@ body{
     box-sizing: border-box;
 }
 
-main{
-    width: 90vw;
-    margin-left: 1rem
-}
+
 
 .new-jobs-cta{
 background-color: #e7f6ff;
@@ -18,10 +15,6 @@ width: fit-content;
 /* padding: 0.1rem; */
 }
 
-.new-jobs-cta p{
-    padding: 0.4rem;
-    /* margin-bottom: 0; */
-}
 
 button{
     background-color: #094B72;
