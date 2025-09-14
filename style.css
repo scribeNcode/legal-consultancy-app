@@ -15,7 +15,6 @@ width: fit-content;
 /* padding: 0.1rem; */
 }
 
-
 button{
     background-color: #094B72;
     color: #FFFFFF;
@@ -49,3 +48,19 @@ h1{
 
 }
 
+
+.trust-text{
+    margin-top: 3rem;
+    color: #d3d4d4;
+}
+
+.brand-logo{
+    width: 3rem;
+}
+
+.line-one, .line-two{
+    display: flex;
+    justify-content: space-between;
+    width: 8rem;
+    margin-bottom: 1rem;
+}
